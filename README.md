@@ -14,7 +14,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ignaciojeriam/mat281_portafolio_template/master?urlpath=lab)
 
-* __Ignacio Jeria Marras__ : [](https://www.linkedin.com/in/ignaciojeriamarras/)
+* __Ignacio Jeria Marras__ : [Linkedin](https://www.linkedin.com/in/ignaciojeriamarras/)
 
 * __Repositorio Curso__: [GitHub](https://github.com/ignaciojeriam/Mat281_portafolio)
 
