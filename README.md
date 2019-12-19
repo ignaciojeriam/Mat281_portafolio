@@ -12,7 +12,7 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ignaciojeriam/mat281_portafolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ignaciojeriam/mat281_portafolio/master?urlpath=lab)
 
 * __Ignacio Jeria Marras__ : [Linkedin](https://www.linkedin.com/in/ignaciojeriamarras/)
 
