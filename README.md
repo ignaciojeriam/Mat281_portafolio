@@ -1,4 +1,4 @@
-<header>
+﻿<header>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" width=200 alt="UTFSM" align="left"/>
 <img src="./images/dmat.png" alt="DMAT" align="right"/>
 </header>
@@ -14,9 +14,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ignaciojeriam/mat281_portafolio_template/master?urlpath=lab)
 
-* __John Titor__ : [](https://www.linkedin.com/in/williamhgates/)
+* __Ignacio Jeria Marras__ : [](https://www.linkedin.com/in/ignaciojeriamarras/)
 
-* __Repositorio Curso__: [GitHub](https://github.com/aLoNsolml/mat281_2019S2)
+* __Repositorio Curso__: [GitHub](https://github.com/ignaciojeriam/Mat281_portafolio)
 
 * __Licencia__: [MIT](./LICENCE.md)
 
